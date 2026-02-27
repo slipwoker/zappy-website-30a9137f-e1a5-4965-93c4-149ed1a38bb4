@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+דפוס סופר גולד בחולון מציע פתרונות הדפסה מקצועיים לעסקים: קטלוגים, חומרי פרסום, מיתוג ועוד. בית דפוס בישראל עם שירות מהיר ואיכות ללא פשרות!
+
+### שירותים
+https://example.com/services
+גלה את מגוון שירותי ההדפסה שלנו: קטלוגים מרהיבים, חומרי פרסום יוקרתיים, מיתוג עסקי מושלם ועוד. בית דפוס בישראל למיתוג עסקי ברמה הגבוהה ביותר!
+
+### אודות
+https://example.com/about
+למעלה משני עשורים של ניסיון בתעשיית ההדפסה בחולון. הכירו את דפוס סופר גולד - בית דפוס שמשלב טכנולוגיה מתקדמת עם מסירות אישית לכל לקוח ולקוחה.
+
+### צור קשר
+https://example.com/contact
+צור קשר עם בית הדפוס המוביל בחולון עוד היום! נשמח לענות על כל שאלה ולספק הצעת מחיר מיידית לפרויקט ההדפסה שלך. שירות אדיב, מהיר ומקצועי מובטח.
+
+### Products
+https://example.com/products
+המוצרים שלנו - דפוס סופר גולד
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - דפוס סופר גולד
+
+### Category
+https://example.com/category/:slug
+מוצרים - דפוס סופר גולד
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
